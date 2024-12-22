@@ -1,0 +1,5 @@
+
+Product Category Number - 3
+Product name - cage
+Product Price - LKR4000.0
+Product Quantity - 2 Instock
